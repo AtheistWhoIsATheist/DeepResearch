@@ -1,8 +1,8 @@
 ---
 title: MiniMax-Reconciling Nihilism & Transcendent
 tags: nihiltheism
-createdAt: Tue May 13 2025 13:56:44 GMT-0700 (Pacific Daylight Time)
-updatedAt: Tue May 13 2025 14:00:00 GMT-0700 (Pacific Daylight Time)
+Date Created: Tue May 13 2025 13:56:44 GMT-0700 (Pacific Daylight Time)
+Last Updated: Tue May 13 2025 14:00:00 GMT-0700 (Pacific Daylight Time)
 ---
 
 

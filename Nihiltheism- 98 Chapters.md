@@ -1,8 +1,8 @@
 ---
 title: Nihiltheism- 98 Chapters
 tags: nihiltheism
-createdAt: Mon May 12 2025 20:09:35 GMT-0700 (Pacific Daylight Time)
-updatedAt: Wed May 21 2025 16:09:30 GMT-0700 (Pacific Daylight Time)
+Date Created: Mon May 12 2025 20:09:35 GMT-0700 (Pacific Daylight Time)
+Last Updated: Wed May 21 2025 16:09:30 GMT-0700 (Pacific Daylight Time)
 ---
 
 

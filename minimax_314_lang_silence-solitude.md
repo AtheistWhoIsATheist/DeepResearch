@@ -1,11 +1,14 @@
 ---
-title: "Cladue Development of Language"
+title: Cladue Development of Language
 date created: 2025-06-23
-last updated:
-description:
+last updated: 
+description: 
 tags:
-  - "#"
-backlinks: "[[related note]]"
+  - 314analysis
+  - langauge
+  - deepresearch
+  - minimax
+Backlink: "[[related note]]"
 ---
 \\ `\` \\\`xml
 

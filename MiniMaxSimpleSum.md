@@ -1,8 +1,8 @@
 ---
 title: MiniMaxSimpleSum
 tags: Nihilism
-createdAt: Mon Jun 02 2025 11:06:39 GMT-0700 (Pacific Daylight Time)
-updatedAt: Mon Jun 02 2025 11:07:14 GMT-0700 (Pacific Daylight Time)
+Date Created: Mon Jun 02 2025 11:06:39 GMT-0700 (Pacific Daylight Time)
+Last Updated: Mon Jun 02 2025 11:07:14 GMT-0700 (Pacific Daylight Time)
 ---
 
 

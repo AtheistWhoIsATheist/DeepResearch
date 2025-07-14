@@ -1,8 +1,8 @@
 ---
 title: MiniMax Agent - Your AI Supercompanion, Think Faster, Achieve More
 tags: nihiltheism
-createdAt: Wed May 21 2025 03:27:22 GMT-0700 (Pacific Daylight Time)
-updatedAt: Wed May 21 2025 03:27:48 GMT-0700 (Pacific Daylight Time)
+Date Created: Wed May 21 2025 03:27:22 GMT-0700 (Pacific Daylight Time)
+Last Updated: Wed May 21 2025 03:27:48 GMT-0700 (Pacific Daylight Time)
 ---
 
 
