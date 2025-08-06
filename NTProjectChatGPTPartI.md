@@ -6,7 +6,7 @@ tags:
   - deepresearch
   - longessay
   - Nihiltheism
-Backlinks: "[[NTProjectChatGPTPartII]]"
+backlinks: "[[NTProjectChatGPTPartII]]"
 description:
 ---
 # Nihiltheism Essay from ChatGPT Projects Part I

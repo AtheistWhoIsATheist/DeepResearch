@@ -8,7 +8,7 @@ tags:
   - langauge
   - deepresearch
   - minimax
-Backlink: "[[related note]]"
+backlinks: "[[related note]]"
 ---
 \\ `\` \\\`xml
 

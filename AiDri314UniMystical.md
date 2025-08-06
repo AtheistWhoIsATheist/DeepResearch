@@ -3,8 +3,9 @@ title: AiDri314Uni
 aliases: 
 date created: 2025-04-01
 last updated: 2025-04-01T04:45:00
-tags: #aidrive #314quotes #314Universal #deepresearch #mystical 
-Backlinks: [[AiDriveAbsurdityCorrectCopy]]
+tags: 
+backlinks:
+  - - AiDriveAbsurdityCorrectCopy
 description: The backlink above nad this note made same day.  This note is more universal 314 w/ mystical analysis.  2nd is more about suicidie nothinginess.
 source: "{{URL}}"
 ---

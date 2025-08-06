@@ -3,10 +3,10 @@ title: ChatGPT PhD Dissertation Deep Research
 aliases: 
 date created: 2025-04-01
 last updated: 2025-04-01T04:45:00
-tags: #deepresearch #phdadvisor #gemini #perplexity #chatgpt4o 
-Backlinks: [[Gemini_ PhD Dissertation]]
+tags: 
 description: PhD Dissertation on Nihiltheism
 source: "{{https://chatgpt.com/share/6817d2ad-4984-8011-820a-a6bef8a642f2}}"
+backlinks: "[[Recall-DRChatGPTPhD]]"
 ---
 
 [[Gemini_ PhD Dissertation]]

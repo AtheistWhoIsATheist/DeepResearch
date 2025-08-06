@@ -6,7 +6,7 @@ tags:
   - 314quotes
   - 314Universal
   - minimax
-Backlink: "[[314Quotes&GPT_MiniMax]]"
+backlinks: "[[314Quotes&GPT_MiniMax]]"
 description: This is just the 314Analysis part
 ---
 

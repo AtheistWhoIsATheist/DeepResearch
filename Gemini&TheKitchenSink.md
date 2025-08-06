@@ -5,7 +5,7 @@ last updated: 2025-06-27
 description: Snet so many prompts, a vasta amount of information, the last reply in this note says A LOT
 tags:
   - "#gemini"
-Backlink: "[[related note]]"
+backlinks: "[[related note]]"
 ---
 
 # NEW Iterative Deep Textual Analysis

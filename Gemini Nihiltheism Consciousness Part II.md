@@ -5,7 +5,7 @@ Date Created: 2025-04-01
 Last Updated: 2025-04-01T04:45:00
 tags: 
 Description: may be "thinking" part and not response, need to review
-Backlink: "[[AiDri_Gem_Nihil_Consc_Prompt]]"
+backlinks: "[[AiDri_Gem_Nihil_Consc_Prompt]]"
 ---
 
 

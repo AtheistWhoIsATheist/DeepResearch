@@ -5,7 +5,7 @@ last updated: 2025-03-13T18:37:00
 tags:
   - deepresearch
   - longessay
-Backlinks: "[[NTProjectChatGPTPartI]]"
+backlinks: "[[NTProjectChatGPTPartI]]"
 description: Second Part of the Nihiltheism Essay Produced within ChatGPT's Projects.
 ---
 # NTProjectChatGPTPartII

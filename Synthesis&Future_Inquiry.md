@@ -8,7 +8,7 @@ tags:
   - superpromp
   - longessay
   - deepresearch
-Backlink: "[[final_synth&future_inquiry]]"
+backlinks: "[[final_synth&future_inquiry]]"
 Description: This Prompt below produces the lenghtiest Gemini responses
 ---
 

@@ -4,13 +4,14 @@ date created: 2025-04-03
 last updated: 2025-04-03T04:45:00
 tags:
   - deepresearch
-Backlinks: 
+backlinks: 
 description: 
 source: "{{URL}}"
 ---
 
 
 # Deep Research Q&A (ChatGPT)
+
 
 2025/02/25
 #deepresearch #advanced 

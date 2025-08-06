@@ -6,7 +6,7 @@ tags:
   - 314sum
   - 314quotes
   - minimax
-Backlink: 
+backlinks: 
 description: Provided Maxmini with journal314 all quotes and 314QuoteAnal
 ---
 

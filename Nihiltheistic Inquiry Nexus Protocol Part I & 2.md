@@ -4,7 +4,7 @@ aliases:
 Date Created: 2025-05-16
 Last Updated: 2025-06-28T16:54:00
 Description: 1.  Recall Summary, 2. The Actual Prompt (within google Docs)
-Backlink:
+backlinks:
 ---
 
 ## The Nihiltheistic Inquiry Nexus Protocol

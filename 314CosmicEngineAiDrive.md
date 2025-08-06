@@ -6,7 +6,7 @@ Date Created: 2025-04-01
 Last Updated: 2025-04-01T04:45:00
 tags: 
 Description: Analyzed Joournal314 All Quotes with 314cosmicengineAiDrive
-Backlink: "[[_Journal314 All Quotes_]]"
+backlinks: "[[_Journal314 All Quotes_]]"
 ---
 
 # JOURNAL314: COSMIC SYNTHESIS ENGINE

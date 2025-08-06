@@ -7,7 +7,7 @@ tags:
   - "#gemini"
   - deepresearch
 Description: 
-Backlink: "[[Gemini Nihiltheism Consciousness Part II]]"
+backlinks: "[[Gemini Nihiltheism Consciousness Part II]]"
 ---
 
 

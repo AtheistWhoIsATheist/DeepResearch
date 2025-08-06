@@ -6,7 +6,7 @@ tags:
   - 314Universal
   - 314quotes
   - deepresearch
-Backlinks: 
+backlinks: 
 description: DR by ChatGPT on journal314
 source: "{{URL}}"
 ---

@@ -4,7 +4,7 @@ date created: 2025-04-19
 last updated: 
 description: 
 tags: minimax
-Backlink: "[[text]]"
+backlinks: "[[text]]"
 ---
 UsedBest314Extractforthis\_AllSections.pdf
 

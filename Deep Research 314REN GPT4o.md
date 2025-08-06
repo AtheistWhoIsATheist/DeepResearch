@@ -5,7 +5,7 @@ last updated: 2025-04-01T04:45:00
 tags:
   - deepresearch
   - chatgpt
-Backlinks: "[[Deep Research 314REN GPT4o]]"
+backlinks: "[[Deep Research 314REN GPT4o]]"
 description: 
 source: "{{URL}}"
 ---

@@ -6,7 +6,7 @@ Folder: NT Research / Deep
 tags:
   - gemini
   - deepresearch
-Backlink: "[[Gemini_DR_Despair&Divinity]]"
+backlinks: "[[Gemini_DR_Despair&Divinity]]"
 Description:
 ---
 

@@ -7,7 +7,7 @@ tags:
   - "#gemini"
   - deepresearch
 Description: Detailed essay from a no frills perspective.  Not necessarily pessimistic, but faces NT challenges head on
-Backlink:
+backlinks:
 ---
 
 
